@@ -10,3 +10,8 @@ st.caption("Criador: Davi Andrade")
 st.subheader("Informações Importantes")
 st.write("Os dados aqui apresentados possuem uma série de fontes, que estão elencadas a seguir. Os códigos são de autoria própria.")
 
+st.link_button("https://platform.openai.com/docs/overview")
+st.link_button("https://finance.yahoo.com")
+st.link_button("https://www3.bcb.gov.br/sgspub")
+st.link_button("https://www.ibge.gov.br/")
+
